@@ -1,0 +1,9 @@
+Task List
+
+1. Setiap orang membuat sebuah 1 branch sendiri yang source dari branch dev format branch = nama/raihan-rafid
+2. Buatlah sebuah file formatnya nama lengkap dipisah dengan underscore
+cth: raihan_rafid.txt
+
+Nama Panggilan: Rafid
+Kampus: MIT
+Domisili: Purwokerto
